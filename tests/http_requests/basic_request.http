@@ -1,0 +1,7 @@
+GET / HTTP/1.1
+Host: localhost
+Content-Length: 20
+User-Agent: curl/7.68.0
+Accept: */*
+
+un message de merde.
